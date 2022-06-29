@@ -1,6 +1,6 @@
 # Auto-Fill-In-Form
 
-This script work for radio button input only. It automate to fill in form.
+This script work for **radio button input only**. It automate to fill in form.
 
 Fixed:
 
